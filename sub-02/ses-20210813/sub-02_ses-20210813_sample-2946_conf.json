@@ -1,0 +1,12 @@
+{
+        "Manufacturer": "Leica",
+        "PixelSize": [0.57, 0.57],
+        "PixelSizeUnits": "um",
+        "BodyPart": "BRAIN",
+	"BodyPartDetails": "prefrontal cortex",
+	"SampleEnvironment": "exvivo",
+	"SampleFixation": "4% paraformaldehyde",
+        "SampleStaining": "DAPI",
+	"SamplePrimaryAntibody": ["ATP5A1 antibody, CDI, BCN228.1.2D12", "ATP5A1 Polyclonal antibody, Proteintech, 14676-1-AP"],
+	"SliceThickness": "150",
+}
