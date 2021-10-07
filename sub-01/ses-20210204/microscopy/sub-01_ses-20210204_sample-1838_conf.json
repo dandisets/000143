@@ -1,0 +1,12 @@
+{
+        "Manufacturer": "Leica",
+        "PixelSize": [0.57, 0.57],
+        "PixelSizeUnits": "um",
+        "BodyPart": "BRAIN",
+	"BodyPartDetails": "medulla",
+	"SampleEnvironment": "exvivo",
+	"SampleFixation": "4% paraformaldehyde, 2% GE38",
+        "SampleStaining": "DAPI",
+	"SamplePrimaryAntibody": ["ALDh1a1 antibody, CDI, BCN3.2.2C6", "ALDH1A1 Polyclonal antibody, Proteintech, 15910-1-AP"],
+	"SliceThickness": "150",
+}
