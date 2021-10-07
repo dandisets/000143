@@ -1,0 +1,12 @@
+{
+        "Manufacturer": "Leica",
+        "PixelSize": [0.57, 0.57],
+        "PixelSizeUnits": "um",
+        "BodyPart": "BRAIN",
+	"BodyPartDetails": "medulla",
+	"SampleEnvironment": "exvivo",
+	"SampleFixation": "4% paraformaldehyde",
+        "SampleStaining": "DAPI",
+	"SamplePrimaryAntibody": ["S100B antibody, CDI, HX552.1.1H11", "S100B Polyclonal Antibody, Invitrogen, PA5-78161"],
+	"SliceThickness": "150",
+}
