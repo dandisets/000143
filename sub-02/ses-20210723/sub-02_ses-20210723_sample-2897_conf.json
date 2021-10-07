@@ -1,0 +1,12 @@
+{
+        "Manufacturer": "Leica",
+        "PixelSize": [0.57, 0.57],
+        "PixelSizeUnits": "um",
+        "BodyPart": "BRAIN",
+	"BodyPartDetails": "prefrontal cortex",
+	"SampleEnvironment": "exvivo",
+	"SampleFixation": "4% paraformaldehyde, 2% GE38",
+        "SampleStaining": "DAPI",
+	"SamplePrimaryAntibody": ["GLUL antibody, CDI, BCN148.1.2H5", "Glutamine synthetase antibody, Genetex, GTX109121"],
+	"SliceThickness": "150",
+}
